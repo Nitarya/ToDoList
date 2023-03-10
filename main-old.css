@@ -1,0 +1,40 @@
+#taskName{
+    height: 3rem;
+    background-color: rgb(236, 228, 217);
+    font-size: 20px;
+    color:purple;
+    border-radius: 20px;
+    box-shadow: 8px 8px 5px #444;
+    margin-left: 40px;
+}
+
+
+button{
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 130px;
+    background-color: rgb(179, 178, 174);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 5px #444
+
+}
+
+
+
+.shadowbox {
+    width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    margin-left: 40px;
+}
+
+li{
+    width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    
+}
+
